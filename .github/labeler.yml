@@ -1,0 +1,29 @@
+"[JSON]":
+  - "**/*.json"
+"[YML]":
+  - "**/*.yml"
+"[PHP]":
+  - "**/*.php"
+"[Javascript]":
+  - "**/*.js"
+"[blade]":
+  - "**/*.blade.php"
+"[Markdown]":
+  - "**/*.md"
+
+"[Python]":
+  - "**/*.py"
+
+"<Documentation>":
+  - "**/*.md"
+  - doc/**/*
+  - doxygen_doc/**/*
+
+"Code: Tooling":
+  - .github/**/*
+
+"Code: Tests":
+  - tests/**/*
+
+"Models":
+  - "**/Models/**"
