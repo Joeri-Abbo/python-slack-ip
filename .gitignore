@@ -1,7 +1,6 @@
 venv
 .idea
 config.yml
-stats.txt
-storage
+logs
 .pytest_cache
 __pycache__
