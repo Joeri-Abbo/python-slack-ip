@@ -6,13 +6,7 @@
 version: 2
 updates:
   # Maintain dependencies for npm
-  - package-ecosystem: "npm"
-    directory: "/"
-    schedule:
-      interval: "daily"
-
-  # Maintain dependencies for Composer
-  - package-ecosystem: "composer"
+  - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: "daily"
