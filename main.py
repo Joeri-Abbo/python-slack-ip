@@ -24,6 +24,7 @@ def send_to_slack(message):
         config['slack']['webhook'], data=json.dumps({'text': message}),
         headers={'Content-Type': 'application/json'}
     )
+    print('Sent message to slack')
 
 
 if __name__ == '__main__':
