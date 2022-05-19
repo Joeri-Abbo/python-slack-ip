@@ -31,7 +31,7 @@ mysql==0.0.3
 mysql-connector==2.2.9
 mysql-connector-python==8.0.29
 mysqlclient==2.1.0
-openpyxl==3.0.9
+openpyxl==3.0.10
 outcome==1.1.0
 packaging==21.3
 platformdirs==2.5.2
