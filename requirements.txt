@@ -1,4 +1,4 @@
-asgiref==3.5.0
+asgiref==3.5.2
 async-generator==1.10
 async-timeout==4.0.2
 attrs==21.4.0
