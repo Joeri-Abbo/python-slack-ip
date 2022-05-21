@@ -16,7 +16,7 @@ distlib==0.3.4
 Django==4.0.4
 et-xmlfile==1.1.0
 Faker==13.11.1
-filelock==3.6.0
+filelock==3.7.0
 Flask==2.1.2
 h11==0.13.0
 idna==3.3
