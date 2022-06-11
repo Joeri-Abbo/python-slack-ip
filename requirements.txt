@@ -15,7 +15,7 @@ Deprecated==1.2.13
 distlib==0.3.4
 Django==4.0.5
 et-xmlfile==1.1.0
-Faker==13.12.1
+Faker==13.13.0
 filelock==3.7.1
 Flask==2.1.2
 h11==0.13.0
