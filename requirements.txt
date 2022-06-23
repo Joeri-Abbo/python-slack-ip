@@ -3,7 +3,7 @@ async-generator==1.10
 async-timeout==4.0.2
 attrs==21.4.0
 backports.zoneinfo==0.2.1
-botocore==1.27.15
+botocore==1.27.16
 boto3==1.24.15
 certifi==2022.6.15
 cffi==1.15.0
