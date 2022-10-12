@@ -29,7 +29,7 @@ MarkupSafe==2.1.1
 msgpack==1.0.4
 mysql==0.0.3
 mysql-connector==2.2.9
-mysql-connector-python==8.0.30
+mysql-connector-python==8.0.31
 mysqlclient==2.1.1
 openpyxl==3.0.10
 outcome==1.2.0
