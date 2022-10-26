@@ -60,7 +60,7 @@ trycourier==4.4.0
 urllib3==1.26.12
 virtualenv==20.16.5
 webdriver-manager==3.8.4
-websockets==10.3
+websockets==10.4
 Werkzeug==2.2.2
 wrapt==1.14.1
 wsproto==1.2.0
