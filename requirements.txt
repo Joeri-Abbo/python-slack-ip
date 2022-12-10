@@ -33,7 +33,7 @@ mysql-connector-python==8.0.31
 mysqlclient==2.1.1
 openpyxl==3.0.10
 outcome==1.2.0
-packaging==21.3
+packaging==22.0
 platformdirs==2.6.0
 protobuf==4.21.11
 pycparser==2.21
