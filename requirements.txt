@@ -62,6 +62,6 @@ virtualenv==20.19.0
 webdriver-manager==3.8.5
 websockets==10.4
 Werkzeug==2.2.3
-wrapt==1.14.1
+wrapt==1.15.0
 wsproto==1.2.0
 zipp==3.15.0
