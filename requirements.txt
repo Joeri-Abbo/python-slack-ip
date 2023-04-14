@@ -59,7 +59,7 @@ trio-websocket==0.10.2
 trycourier==4.4.0
 urllib3==1.26.15
 virtualenv==20.21.0
-webdriver-manager==3.8.5
+webdriver-manager==3.8.6
 websockets==11.0.1
 Werkzeug==2.2.3
 wrapt==1.15.0
