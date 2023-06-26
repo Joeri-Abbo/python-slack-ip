@@ -56,7 +56,7 @@ sqlparse==0.4.4
 termcolor==2.3.0
 trio==0.22.0
 trio-websocket==0.10.3
-trycourier==4.4.0
+trycourier==4.5.0
 urllib3==2.0.3
 virtualenv==20.23.1
 webdriver-manager==3.8.6
