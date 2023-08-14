@@ -58,7 +58,7 @@ trio==0.22.2
 trio-websocket==0.10.3
 trycourier==5.0.0
 urllib3==2.0.4
-virtualenv==20.24.2
+virtualenv==20.24.3
 webdriver-manager==4.0.0
 websockets==11.0.3
 Werkzeug==2.3.6
