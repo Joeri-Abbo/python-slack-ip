@@ -35,7 +35,7 @@ openpyxl==3.1.2
 outcome==1.2.0
 packaging==23.1
 platformdirs==3.10.0
-protobuf==4.24.0
+protobuf==4.24.1
 pycparser==2.21
 pyOpenSSL==23.2.0
 pyparsing==3.1.1
