@@ -55,7 +55,7 @@ sortedcontainers==2.4.0
 sqlparse==0.4.4
 termcolor==2.3.0
 trio==0.22.2
-trio-websocket==0.10.3
+trio-websocket==0.10.4
 trycourier==5.0.0
 urllib3==2.0.4
 virtualenv==20.24.3
