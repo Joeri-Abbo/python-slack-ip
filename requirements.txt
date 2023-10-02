@@ -61,7 +61,7 @@ urllib3==2.0.5
 virtualenv==20.24.5
 webdriver-manager==4.0.1
 websockets==11.0.3
-Werkzeug==2.3.7
+Werkzeug==3.0.0
 wrapt==1.15.0
 wsproto==1.2.0
 zipp==3.17.0
