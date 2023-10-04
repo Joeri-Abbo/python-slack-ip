@@ -57,7 +57,7 @@ termcolor==2.3.0
 trio==0.22.2
 trio-websocket==0.11.1
 trycourier==5.0.0
-urllib3==2.0.5
+urllib3==2.0.6
 virtualenv==20.24.5
 webdriver-manager==4.0.1
 websockets==11.0.3
