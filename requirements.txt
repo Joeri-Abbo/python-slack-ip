@@ -17,7 +17,7 @@ Django==4.2.5
 et-xmlfile==1.1.0
 Faker==19.6.2
 filelock==3.12.4
-Flask==2.3.3
+Flask==3.0.0
 h11==0.14.0
 idna==3.4
 importlib-metadata==6.8.0
