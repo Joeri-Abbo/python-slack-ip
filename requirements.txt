@@ -4,7 +4,7 @@ async-timeout==4.0.3
 attrs==23.1.0
 backports.zoneinfo==0.2.1
 botocore==1.31.69
-boto3==1.28.69
+boto3==1.28.70
 certifi==2023.7.22
 cffi==1.16.0
 charset-normalizer==3.3.1
